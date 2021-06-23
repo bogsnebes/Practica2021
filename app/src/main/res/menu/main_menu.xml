@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    tools:showIn="navigation_view">
+    <group android:checkableBehavior="single">
+        <item android:contentDescription="@string/myMarks"
+            android:title="@string/myMarks"
+            android:id="@+id/myMarks"
+            android:icon="@drawable/ic_marks"/>
+        <item android:contentDescription="@string/news"
+            android:title="@string/news"
+            android:id="@+id/news"
+            android:icon="@drawable/ic_news"/>
+        <item android:contentDescription="@string/messages"
+            android:title="@string/messages"
+            android:id="@+id/messages"
+            android:icon="@drawable/ic_messages"/>
+        <item android:contentDescription="@string/tests"
+            android:title="@string/tests"
+            android:id="@+id/tests"
+            android:icon="@drawable/ic_tests"/>
+    </group>
+
+</menu>

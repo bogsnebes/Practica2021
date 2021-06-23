@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">StudentMotivation</string>
+    <string name="myMarks">Мои баллы</string>
+    <string name="news">Новости</string>
+    <string name="messages">Сообщения</string>
+    <string name="tests">Тесты</string>
+
+    <string name="descr_post">Фотография поста</string>
+    <string name="descr_message">Фотография пользователя</string>
+</resources>

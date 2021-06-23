@@ -1,0 +1,56 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+        <string-array name="news">
+            <item>КУРС Data Engeenier</item>
+            <item>Стажировка в Yandex</item>
+            <item>Вакансии CБЕР</item>
+            <item>Morgenshtern ищет программистов</item>
+        </string-array>
+
+        <string-array name="news_description">
+            <item>Берем всех!</item>
+            <item>От 18+ лет и 19 лет опыта</item>
+            <item>Зарплаты от 6 000 рублей</item>
+            <item>Я срочно ищу программистов!</item>
+        </string-array>
+
+        <array name="news_image">
+            <item>@drawable/google</item>
+            <item>@drawable/yandex</item>
+            <item>@drawable/sber</item>
+            <item>@drawable/morgen</item>
+        </array>
+
+    <string-array name="messages">
+        <item>Вася Пупкин</item>
+        <item>Павел Дуров</item>
+        <item>Азамат</item>
+    </string-array>
+
+    <string-array name="messages_description">
+        <item>Привет. Занят?</item>
+        <item>Как ты сделал чат ?</item>
+        <item>Зачем ты такие вещи пишешь ?</item>
+    </string-array>
+
+    <array name="messages_image">
+        <item>@drawable/google</item>
+        <item>@drawable/morgen</item>
+        <item>@drawable/azamat</item>
+    </array>
+
+    <string-array name="tests">
+        <item>Тест на профориентацию</item>
+        <item>Оценка лекции и вопросы</item>
+    </string-array>
+
+    <string-array name="tests_description">
+        <item>""</item>
+        <item>""</item>
+    </string-array>
+
+    <array name="tests_image">
+        <item>@drawable/unnamed</item>
+        <item>@drawable/brain</item>
+    </array>
+</resources>
